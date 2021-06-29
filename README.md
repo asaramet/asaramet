@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Saramet
 - 👀 I’m interested in Web, Linux, Python Programing and Networking
-- 🌱 I’m currently learning Network and Security fundamentals
+- 🌱 Have a journey through IT, next station -> Networking & Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
